@@ -46,7 +46,7 @@
 
 - 📧 Puedes escribirme a [Correo electrónico](jesusjbjonathan@gmail.com)
 - 🔗 Conéctate conmigo en [LinkedIn](https://www.linkedin.com/in/jonathanj-pen)
-- 🐱📚 Visita mi Portafolio en [Portafolio](https://jonathanjesus03.github.io/Briefcase/)
+- 🐱📚 Visita mi Portafolio en [BriefCase](https://jonathanjesus03.github.io/Briefcase/)
 
 ¡No dudes en contactarme para charlar sobre ciberseguridad, colaborar en proyectos o discutir tecnología! Espero conocer a otros apasionados de la ciberseguridad y continuar aprendiendo juntos.
 
