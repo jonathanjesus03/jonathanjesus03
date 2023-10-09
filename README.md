@@ -17,6 +17,12 @@
 - 📚 He participado en proyectos universitarios relacionados con la ciberseguridad, incluyendo auditorías de seguridad en el Centro Comercial Tottus.
 - 💡 Trabajo en equipo y resolución de problemas en entornos del mundo real.
 
+### ¡Echa un vistazo a mi Portafolio en línea! 🚀
+
+📚 Explora mi colección de proyectos y logros en el emocionante mundo de la ciberseguridad y la tecnología. Mi portafolio es un reflejo de mi pasión por la seguridad informática y el aprendizaje constante.
+
+🌐🐱📚 Visita [Mi Portafolio en BriefCase](https://jonathanjesus03.github.io/Briefcase/) para conocer algunos de mis proyectos más destacados, logros y contribuciones en el campo de la ciberseguridad.
+
 ### Certificaciones
 
 - 📜 Certificado **Pentester Mentor Junior (PMJ)** (obtenido el 12 de octubre de 2023).
