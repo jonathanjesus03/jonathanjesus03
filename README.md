@@ -50,7 +50,7 @@
 
 ### Contacto
 
-- 📧 Puedes escribirme a [Correo electrónico](jesusjbjonathan@gmail.com)
+- 📧 Puedes escribirme a [Correo electrónico](jesusjbjonathan@gmail.com) -> jesusjbjonathan@gmail.com
 - 🔗 Conéctate conmigo en [LinkedIn](https://www.linkedin.com/in/jonathanj-pen)
 - 🐱📚 Visita mi Portafolio en [BriefCase](https://jonathanjesus03.github.io/Briefcase/)
 
