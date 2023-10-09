@@ -6,22 +6,22 @@
 
 ¡Bienvenido a mi perfil de GitHub! Soy un estudiante apasionado de la ciberseguridad que busca convertirse en un Pentester profesional. Actualmente, estoy cursando la carrera de Ingenieria de Software en la Universidad Tecnológica del Perú.
 
-### Experiencia y Proyectos
-
-- 💼 Experiencia en pruebas de penetración voluntarias y proyectos personales de ciberseguridad.
-- 🎓 Estudiante de Pentester Mentor Junior en HackerMentor.
-- 🌐 Explorando y aprendiendo constantemente en el emocionante mundo de la ciberseguridad.
-
-### Proyectos Universitarios
-
-- 📚 He participado en proyectos universitarios relacionados con la ciberseguridad, incluyendo auditorías de seguridad en el Centro Comercial Tottus.
-- 💡 Trabajo en equipo y resolución de problemas en entornos del mundo real.
-
 ### ¡Echa un vistazo a mi Portafolio en línea! 🚀
 
 📚 Explora mi colección de proyectos y logros en el emocionante mundo de la ciberseguridad y la tecnología. Mi portafolio es un reflejo de mi pasión por la seguridad informática y el aprendizaje constante.
 
 🌐🐱📚 Visita [Mi Portafolio en BriefCase](https://jonathanjesus03.github.io/Briefcase/) para conocer algunos de mis proyectos más destacados, logros y contribuciones en el campo de la ciberseguridad.
+
+### Experiencia y Proyectos
+
+- 💼 Experiencia en pruebas de penetración voluntarias y proyectos personales de ciberseguridad.
+- 🎓 Estudiante de Pentester Mentor Junior en HackerMentor.
+- 🌐 Explorando y sumergiéndome continuamente en el emocionante campo de la ciberseguridad, he consolidado mis conocimientos provenientes de diversas fuentes, incluyendo mi formación académica en ArtisCode.
+
+### Proyectos Universitarios
+
+- 📚 He participado en proyectos universitarios relacionados con la ciberseguridad, incluyendo auditorías de seguridad en el Centro Comercial Tottus.
+- 💡 Trabajo en equipo y resolución de problemas en entornos del mundo real.
 
 ### Certificaciones
 
