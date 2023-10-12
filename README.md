@@ -25,8 +25,8 @@
 
 ### Certificaciones
 
-- 📜 Certificado **Pentester Mentor Junior (PMJ)** (obtenido el 12 de octubre de 2023).
-- 📜 Certificado **Ethical Hacking Certified Associate (EHCA)** (obtenido el 12 de octubre de 2023).
+- 📜 Certificado **Pentester Mentor Junior (PMJ)** (obtenido el 20 de octubre de 2023).
+- 📜 Certificado **Ethical Hacking Certified Associate (EHCA)** (obtenido el 20 de octubre de 2023).
 - 📚 Cursos en la **Academia ArtistCode** para fortalecer mis habilidades en ciberseguridad.
 
 ### Conocimientos Técnicos
