@@ -6,7 +6,7 @@
 
 ¡Bienvenido a mi perfil de GitHub! Soy un estudiante apasionado de la ciberseguridad que busca convertirse en un Pentester profesional. Actualmente, estoy cursando la carrera de Ingenieria de Software en la Universidad Tecnológica del Perú.
 
-### ¡Echa un vistazo a mi Portafolio en línea! 🚀
+### ¡Echa un vistazo a mis Portafolios en línea! 🚀
 
 📚 ¡Bienvenido a mi mundo de ciberseguridad y tecnología! Mi portafolio es una ventana a mi pasión por la seguridad informática y mi constante búsqueda de conocimiento.
 
