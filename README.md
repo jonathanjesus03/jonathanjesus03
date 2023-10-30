@@ -12,17 +12,11 @@
 
 🌐🐱📚 ¡Explora [Mi Portafolio en BriefCase](https://jonathanjesus03.github.io/Briefcase/) para descubrir algunos de mis proyectos más destacados, logros y contribuciones en el emocionante campo de la ciberseguridad!
 
-![BriefCase Portfolio](https://via.placeholder.com/800x300.png) <!-- Reemplaza con una captura de pantalla o imagen de tu portafolio -->
+![BriefCase Portfolio]([https://via.placeholder.com/800x300.png](https://info.varonis.com/hubfs/Imported_Blog_Media/varonis-pentesting-hero@2x-1-1-1.png)) <!-- Reemplaza con una captura de pantalla o imagen de tu portafolio -->
 
-🔍 También puedes acceder a mis informes profesionales más recientes en seguridad cibernética:
+🔍 También puedes acceder a mis informes profesionales en seguridad cibernética en mi [**Repositorio de Informes Profesionales en Seguridad Cibernética**](https://github.com/jonathanjesus03/Report-Hub-for-Petereport-and-Blackstone) en GitHub. Los informes están presentados de manera similar a mi portafolio BriefCase.
 
-- [**Informe en PDF de Auditoría en Máquina Virtual "Hacker Kid"**](https://github.com/jonathanjesus03/Report-Hub-for-Petereport-and-Blackstone/blob/88a68104902cd1bcd7c90d3bd2c6907cce5ff63a/PEN-MD_Ethical%20Hacking%20Reto%20Robot.md): Entra en el mundo de "Hacker Kid" y descubre sus secretos en formato PDF.
-
-- [**Versión en Markdown del Informe en Máquina Virtual "Mr. Robot"**](https://github.com/jonathanjesus03/Report-Hub-for-Petereport-and-Blackstone/blob/7ca4761d56383ce4bac4a6325482b80de67bce99/PEN-MD_Ethical%20Hacking%20Reto%20Robot.md): Descubre los desafíos de "Mr. Robot" en formato Markdown.
-
-- [**Informe en HTML de Auditoría en Máquina Virtual "Mr. Robot"**](https://github.com/jonathanjesus03/Report-Hub-for-Petereport-and-Blackstone/releases/download/v3.4.5/Ethical.Hacking.Reto.Robot_jonathan_jacinto.html): Experimenta la auditoría de "Mr. Robot" en un emocionante formato HTML.
-
-¿Estás listo para explorar el emocionante mundo de la ciberseguridad? ¡Haz clic en los enlaces y descubre más sobre mis proyectos y logros! 🚀
+¿Estás listo para explorar el emocionante mundo de la ciberseguridad? ¡Haz clic en los enlaces y descubre más sobre mis proyectos y logros! 😊🚀
 
 #### Algunos de los aspectos destacados de mi portafolio incluyen:
 
