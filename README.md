@@ -8,9 +8,31 @@
 
 ### ¡Echa un vistazo a mi Portafolio en línea! 🚀
 
-📚 Explora mi colección de proyectos y logros en el emocionante mundo de la ciberseguridad y la tecnología. Mi portafolio es un reflejo de mi pasión por la seguridad informática y el aprendizaje constante.
+📚 ¡Bienvenido a mi mundo de ciberseguridad y tecnología! Mi portafolio es una ventana a mi pasión por la seguridad informática y mi constante búsqueda de conocimiento.
 
-🌐🐱📚 Visita [Mi Portafolio en BriefCase](https://jonathanjesus03.github.io/Briefcase/) para conocer algunos de mis proyectos más destacados, logros y contribuciones en el campo de la ciberseguridad.
+🌐🐱📚 ¡Explora [Mi Portafolio en BriefCase](https://jonathanjesus03.github.io/Briefcase/) para descubrir algunos de mis proyectos más destacados, logros y contribuciones en el emocionante campo de la ciberseguridad!
+
+![BriefCase Portfolio](https://via.placeholder.com/800x300.png) <!-- Reemplaza con una captura de pantalla o imagen de tu portafolio -->
+
+🔍 También puedes acceder a mis informes profesionales más recientes en seguridad cibernética:
+
+- [**Informe en PDF de Auditoría en Máquina Virtual "Hacker Kid"**](https://github.com/jonathanjesus03/Report-Hub-for-Petereport-and-Blackstone/blob/88a68104902cd1bcd7c90d3bd2c6907cce5ff63a/PEN-MD_Ethical%20Hacking%20Reto%20Robot.md): Entra en el mundo de "Hacker Kid" y descubre sus secretos en formato PDF.
+
+- [**Versión en Markdown del Informe en Máquina Virtual "Mr. Robot"**](https://github.com/jonathanjesus03/Report-Hub-for-Petereport-and-Blackstone/blob/7ca4761d56383ce4bac4a6325482b80de67bce99/PEN-MD_Ethical%20Hacking%20Reto%20Robot.md): Descubre los desafíos de "Mr. Robot" en formato Markdown.
+
+- [**Informe en HTML de Auditoría en Máquina Virtual "Mr. Robot"**](https://github.com/jonathanjesus03/Report-Hub-for-Petereport-and-Blackstone/releases/download/v3.4.5/Ethical.Hacking.Reto.Robot_jonathan_jacinto.html): Experimenta la auditoría de "Mr. Robot" en un emocionante formato HTML.
+
+¿Estás listo para explorar el emocionante mundo de la ciberseguridad? ¡Haz clic en los enlaces y descubre más sobre mis proyectos y logros! 🚀
+
+#### Algunos de los aspectos destacados de mi portafolio incluyen:
+
+- 💼 **Proyectos de Ciberseguridad**: Explora mis proyectos y desafíos relacionados con la ciberseguridad, donde he aplicado mis habilidades de pentesting y auditoría de seguridad.
+
+- 🎓 **Formación y Certificaciones**: Me enorgullece haber obtenido el Certificado **Pentester Mentor Junior (PMJ)** y el Certificado **Ethical Hacking Certified Associate (EHCA)**. Además, he completado cursos en la **Academia ArtistCode** para fortalecer mis habilidades.
+
+- 🖥️ **Experiencia Técnica**: Tengo experiencia en programación con ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) y ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white). Trabajo con sistemas ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) en entornos de ciberseguridad y utilizo ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white) para la automatización de tareas.
+
+- 🌐 **Desarrollo Web**: Además de mis habilidades técnicas, tengo experiencia en el desarrollo web con ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white) y ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white).
 
 ### Experiencia y Proyectos
 
