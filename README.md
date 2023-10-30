@@ -76,7 +76,7 @@ Descubre lo que he aprendido, las soluciones que he encontrado y cómo abordo lo
 
 - 📧 Puedes escribirme a mi [Correo electrónico](jesusjbjonathan@gmail.com) -> jesusjbjonathan@gmail.com
 - 🔗 Conéctate conmigo en [LinkedIn](https://www.linkedin.com/in/jonathanj-pen)
-- 🐱📚 Visita mis Portafolios en [BriefCase](https://jonathanjesus03.github.io/Briefcase/) y [Report-Hub-for-Petereport-and-BlackStone](https://github.com/jonathanjesus03/Report-Hub-for-Petereport-and-Blackstone)     <-- DALE CLICK !!!
+- 🐱📚 Visita mis Portafolios en [BriefCase](https://jonathanjesus03.github.io/Briefcase/) y [Report-Hub-for-Petereport-and-BlackStone](https://github.com/jonathanjesus03/Report-Hub-for-Petereport-and-Blackstone)       <-- DALE CLICK !!!
 
 ¡No dudes en contactarme para charlar sobre ciberseguridad, colaborar en proyectos o discutir tecnología! Espero conocer a otros apasionados de la ciberseguridad y continuar aprendiendo juntos.
 
