@@ -12,7 +12,7 @@
 
 🌐🐱📚 ¡Explora [Mi Portafolio en BriefCase](https://jonathanjesus03.github.io/Briefcase/) para descubrir algunos de mis proyectos más destacados, logros y contribuciones en el emocionante campo de la ciberseguridad!
 
-![BriefCase Portfolio]([https://via.placeholder.com/800x300.png](https://info.varonis.com/hubfs/Imported_Blog_Media/varonis-pentesting-hero@2x-1-1-1.png)) <!-- Reemplaza con una captura de pantalla o imagen de tu portafolio -->
+![BriefCase Portfolio](https://info.varonis.com/hubfs/Imported_Blog_Media/varonis-pentesting-hero@2x-1-1-1.png) <!-- Reemplaza con una captura de pantalla o imagen de tu portafolio -->
 
 🔍 También puedes acceder a mis informes profesionales en seguridad cibernética en mi [**Repositorio de Informes Profesionales en Seguridad Cibernética**](https://github.com/jonathanjesus03/Report-Hub-for-Petereport-and-Blackstone) en GitHub. Los informes están presentados de manera similar a mi portafolio BriefCase.
 
