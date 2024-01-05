@@ -6,6 +6,18 @@
 
 ¡Bienvenido a mi perfil de GitHub! Soy un estudiante apasionado de la ciberseguridad que busca convertirse en un Pentester profesional. Actualmente, estoy cursando la carrera de Ingenieria de Software en la Universidad Tecnológica del Perú.
 
+### ¡Embárcate en un viaje fascinante a través de las transacciones de Bitcoin! 🌐💼
+
+**BTC-Analyzer** es mi última creación: una herramienta en Bash diseñada para explorar las transacciones de Bitcoin en [Blockchain.com](https://www.blockchain.com). Únete a mí en este emocionante viaje por el oscuro y emocionante mundo de las criptomonedas, donde cada transacción cuenta una historia única.
+
+Ven y descubre cómo BTC-Analyzer puede abrir una ventana a la complejidad del blockchain y cómo podemos asegurar nuestras incursiones en este vasto universo digital.
+
+[**¡Descubre BTC-Analyzer en GitHub!**](https://github.com/jonathanjesus03/btcAnalyzer)
+
+¡Prepárate para una odisea cibernética llena de descubrimientos y desafíos! 🚀
+
+---
+
 ### ¡Echa un vistazo a mis Portafolios en línea! 🚀
 
 📚 ¡Bienvenido a mi mundo de ciberseguridad y tecnología! Mi portafolio es una ventana a mi pasión por la seguridad informática y mi constante búsqueda de conocimiento.
