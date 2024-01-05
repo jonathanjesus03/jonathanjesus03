@@ -12,7 +12,7 @@
 
 Ven y descubre cómo BTC-Analyzer puede abrir una ventana a la complejidad del blockchain y cómo podemos asegurar nuestras incursiones en este vasto universo digital.
 
-[**¡Descubre BTC-Analyzer en GitHub!**](https://github.com/jonathanjesus03/btcAnalyzer)
+[**¡Descubre BTC-Analyzer en GitHub!**](https://github.com/jonathanjesus03/BTC-Analyzer)
 
 ¡Prepárate para una odisea cibernética llena de descubrimientos y desafíos! 🚀
 
